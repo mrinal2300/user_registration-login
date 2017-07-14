@@ -1,0 +1,1 @@
+Your password is changed successfully <?php echo anchor('account/login', 'click here'); ?> to login.

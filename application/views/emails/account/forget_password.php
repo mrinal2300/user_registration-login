@@ -1,0 +1,1 @@
+<?php echo anchor($link, 'Click here'); ?>
